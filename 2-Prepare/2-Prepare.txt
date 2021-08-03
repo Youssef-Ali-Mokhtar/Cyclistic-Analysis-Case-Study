@@ -1,0 +1,37 @@
+1-Where is the data located?
+ -Located on my computer in an excel file.
+ -Data format: Internal data.
+ -Structured data
+ -Data source: First party data
+
+How is the data organized?
+ -Sorted by "started_at_date" then by "started_at_time"
+ -Data transformation:
+  deleted fields: trip_id, bike_id
+  splitting: start_time --> start_date and start_time
+             end_time --> end_date and end_time
+
+Are there issues with bias or credibility in this data? Does your data ROCCC?
+ -The data is representitive of the 4th quarter of 2019 bike users.
+ -The data is complete, unbiased.
+ -Containts all the data needed to solve the business tasks .
+ -The data is new, so it's up to date and good for making predictions.
+
+How are you addressing licensing, privacy, security, and accessibility?
+ -The data can be accessed and shared accross the company by: 
+                     Lily Moreno (The director of marketing and my manager),
+ 	             Cyclistic marketing analytics team,
+                     Cyclistic executive team
+ -The data has been made available by Motivate International Inc. under this license.
+
+How did you verify the data’s integrity?
+ -The data is accurate, because it was collected by the company itself (first party).
+ -The data exists on the company servers and on my computer and many other backup copies.
+ -The data is organized and easy to read.
+
+How does it help you answer your question?
+ -The data contains the behavior of the customers whoch will help us understand their preferences.
+
+Are there any problems with the data?
+-So far no.
+

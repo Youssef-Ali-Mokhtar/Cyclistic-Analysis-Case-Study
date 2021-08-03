@@ -1,0 +1,27 @@
+What tools are you choosing and why?
+-Spreadsheets (excel): easy to use
+-SQL: good for processing large amount of data
+-Python and R: Good for processing large amount of data + 
+               lots of stuff can be done within a single block of code
+
+Have you ensured your data’s integrity?
+-The whole dataset has the right data types.
+-The data is trustworthy because it's internal.
+-The data is not a sample, and it's not biased, 
+ because it doesn't focus on a certain group.
+
+What steps have you taken to ensure that your data is clean?
+-removed 47 duplicate values, 704007 unique values remain.
+-All columns have the right data type.
+-Splitting: start_time is split into start_date and start_time
+            end_time is split into end_date and end_time
+-validated tripduration by subtracting start time from end date
+-Unwanted data like trip_id and bike_id got removed
+-Sorted chronologically by start_date then start_time
+-Filling missing values: "birthyear" filled with the average value = 1984
+                         "gender" filled with "Unknown"
+-No typos so far
+-All columns are trimmed
+-Outliers removed from "birthyear" by graphing it out using histogram, values below 1940 are removed.
+-Added "day_of_week" (sunday = 1, saturday = 7)
+                         

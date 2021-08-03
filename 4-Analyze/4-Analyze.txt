@@ -1,0 +1,26 @@
+How should you organize your data to perform analysis on it?
+-The data is sorted chronologically according to the "start_date" and "start_time" columns 
+Has your data been properly formatted?
+-Yes, pivot tables are well formatted and organized
+
+What surprises did you discover in the data?
+-Almost 85% of the bikers are annual members
+-76% of the bikers are males
+-75% of bike usage is during weekdays
+-44% of bike users are 25-34 yrs old followed by old 28% of them are 35-44 yrs old
+
+What trends or relationships did you find in the data?
+-Annual members average trip duration is 12.5 minutes and casual bikers about 1 hour
+-Average Tripduration during week day is almost 
+-the 12-17 age group spends more tripduration time annual members unlike the rest of age_groups
+
+How will these insights help answer your business questions?
+It will help me discover the behavior of users in order to target the right audience.
+
+
+Technologies used:
+Anaconda (python)
+Spreadsheets (excel)
+
+
+

@@ -1,0 +1,42 @@
+1-What is the problem? 
+-How to turn casual riders to annual members
+
+2-Can it be solved with data? If so, what data?
+-The problem can be solved with data provided by the company regarding cyclistic
+
+3-Where is this data? Does it exist, or do you need to collect it?
+-The company provides the data
+
+4-Are you using private data that someone will need to give you access to, or publicly available data?
+-The data is private but I have access to it
+
+5-Who are the relevant sponsors and stakeholders for this project? Who is involved, and how?
+-Lilly Moreno: 
+ is responsible for the development of campaigns and initiatives to promote the bike-share program.
+-Cyclistic executive team:
+ Will decide whether to approve the recommended marketing program.
+
+6-What are the boundaries for your project? What do you consider “in-scope?” What do you consider “out-of-scope?”
+
+-Deliverables:
+ What work is being done, and what things are being created as a result of this project?
+ 1.My team wants to understand how casual riders and annual members use Cyclistic bikes differently
+ 2.From these insights, my team will design a new marketing strategy to convert casual riders into annual members
+
+ When the project is complete, what are you expected to deliver to the stakeholders?
+ 1. A clear statement of the business task
+ 2. A description of all data sources used
+ 3. Documentation of any cleaning or manipulation of data
+ 4. A summary of my analysis
+ 5. Supporting visualizations and key findings
+ 6. Your top three recommendations based on my analysis
+
+ Will you collect data for this project? How much, or for how long?   
+ 1. The data already exists.
+
+7-Is there any other information you think is relevant to the project? 
+ 1.So far no.
+
+8-Is there any information you need or questions you need answered before you can begin?
+ 1.So far no.
+--------------------------------------------------------------------------------------------------------------------------

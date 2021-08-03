@@ -1,0 +1,4 @@
+Cyclistic is a bike-share company that has annual members and casual bikers. The company
+wants the analytics team to turn all the casual bikers into annual members. The company 
+provided data on their customers, and they expect the analytics team to figure out the 
+behavior of the users in order to launch a campaign to target the right audience.

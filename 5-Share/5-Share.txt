@@ -1,0 +1,24 @@
+● Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+ -Yes, the data showed the behavior of bikers.
+
+● What story does your data tell?
+ -Annual members are the majority of the bikers.
+ -Age groups of 25-34 and 35-44 are the the majority of users
+ -The majority of bikers are males
+ -Bikes are mostly used during weekdays
+
+● How do your findings relate to your original question?
+ -The findings tell us a lot about the behavior of bikers which will lead us to the right type of bikers we need to target.
+
+● Who is your audience? What is the best way to communicate with them?
+  - Lily Moreno: The director of marketing and your manager
+  - Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and
+    reporting data that helps guide Cyclistic marketing strategy.
+  - Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
+    recommended marketing program.
+
+● Can data visualization help you share your findings?
+  -Yes, it will help the audience understand the data findings within a very short time.
+
+● Is your presentation accessible to your audience?
+  -Yes, it's public on GitHub.
